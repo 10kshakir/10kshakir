@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Algorithm**
 
--🥅 My goal to become a Blockchain Developer
+- 🥅  My goal is to beocme a  **Blockchain Developer**
 
 - 💬 Ask me about **Data Strucurese Python **
 
