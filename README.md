@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmad Shakir</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Python developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=10kshakir&label=Profile%20views&color=0e75b6&style=flat" alt="10kshakir" /> </p>
 
 - 🌱 I’m currently learning **Algorithm**
 
-- 💬 Ask me about **Data Strucurese**
+-🥅 My goal to become a Blockchain Developer
+
+- 💬 Ask me about **Data Strucurese Python **
 
 - 📫 How to reach me **10kshakir@gmail.com**
 
