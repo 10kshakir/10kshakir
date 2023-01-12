@@ -7,7 +7,7 @@
 
 - 🥅  My goal is to beocme a  **Blockchain Developer**
 
-- 💬 Ask me about **Data Strucurese And Python **
+
 
 - 📫 How to reach me **10kshakir@gmail.com**
 
