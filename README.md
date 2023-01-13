@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Algorithm**
 
-- 🥅  My goal is to beocme a  **Blockchain Developer**
+- 🥅  My goal is to beocme a  **Backend Developer**
 
 
 
