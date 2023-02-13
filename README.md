@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=10kshakir&label=Profile%20views&color=0e75b6&style=flat" alt="10kshakir" /> </p>
 
-- 🌱 I’m currently learning **Algorithm**
+- 🌱 I’m currently learning **PHP laravel**
 
 - 🥅  My goal is to beocme a  **Backend Developer**
 
